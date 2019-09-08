@@ -1,0 +1,6 @@
+[submodule "clientNew/appointment-client"]
+	path = clientNew/appointment-client
+	url = https://github.com/mnthnjain/appointment-client.git
+[submodule "client/appointment-client"]
+	path = client/appointment-client
+	url = https://github.com/mnthnjain/appointment-client.git
